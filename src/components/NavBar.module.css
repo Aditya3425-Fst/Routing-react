@@ -1,0 +1,14 @@
+.navbar{
+    background-color: black;
+    color: antiquewhite;
+    font-size: 30px;
+
+}
+.menu{
+    display: flex;
+    list-style: none;
+    padding: 10px;
+}
+.item{
+    margin: 10px;
+}
